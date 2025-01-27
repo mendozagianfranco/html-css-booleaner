@@ -1,6 +1,5 @@
 * {
     margin: 0;
-    padding: 0;
     box-sizing: border-box;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -35,6 +34,13 @@ h1 {
     color: #44b7e9;
 }
 
-.images {
+section {
     margin: 20px 0;
+}
+.highlighted {
+    background-color: yellow;
+}
+
+.lsit ul {
+    padding-left: 20px;
 }
